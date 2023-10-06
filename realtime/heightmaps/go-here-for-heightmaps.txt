@@ -1,0 +1,6 @@
+https://tangrams.github.io/heightmapper/
+https://www.usgs.gov/the-national-map-data-delivery/gis-data-download
+https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Elevation/1m/Projects/
+https://www.deskproto.com/gallery/usa-reliefs.php
+https://github.com/OSGeo/gdal
+https://gis.stackexchange.com/questions/21049/how-do-i-turn-a-geotiff-file-into-a-bmp-file

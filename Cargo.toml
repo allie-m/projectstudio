@@ -1,0 +1,6 @@
+[workspace]
+
+members = ["obj-viewer", "curvessurfaces", "hierarchicalmodeling", "particles", "raycasting", "realtime"]
+resolver = "2"
+
+package.license = "GPLv3"
