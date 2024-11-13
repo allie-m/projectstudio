@@ -1,0 +1,17 @@
+[package]
+name = "realtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+futures = "0.3.24"
+log = "0.4.17"
+nalgebra = "0.31.1"
+png = "0.17.7"
+rayon = "1.7.0"
+simple_logger = "2.3.0"
+spade = "2.1.0"
+tobj = "3.2.3"
+wgpu = { version = "0.15.0" }#, features = [] }
+winit = { version = "0.27.2" } #, features = ["serde"] }

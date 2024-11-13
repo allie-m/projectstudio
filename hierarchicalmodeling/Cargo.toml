@@ -1,0 +1,19 @@
+[package]
+name = "hierarchicalmodeling"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra = "0.31.1"
+# i'd rather use the fast high quality obj parser
+# for these large models
+# that can adapt easily to their lack of normals
+# than my own implementation
+tobj = "3.2.3"
+
+# copied over from obj-viewer
+futures = "0.3.24"
+log = "0.4.17"
+simple_logger = "2.3.0"
+wgpu = { version = "0.13.0" }#, features = [] }
+winit = { version = "0.27.2" } #, features = ["serde"] }
